@@ -215,4 +215,4 @@ AMXX-Studio is provided as a complete free version with all features and updates
 Start your journey in game development today! Download AMXX-Studio and unleash your creativity in Half-Life!
 
 ---
-**Last updated:** 2026-11-07 15:59:10 UTC
+**Last updated:** 2026-11-07 19:58:47 UTC
